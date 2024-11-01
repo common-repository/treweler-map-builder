@@ -1,0 +1,1657 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Treweler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-19 14:06+0300\n"
+"PO-Revision-Date: 2017-10-10 14:30+0300\n"
+"Last-Translator: Anton L <ant.lokotkov@aisconverse.com>\n"
+"Language-Team: Aisconverse\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html__;esc_attr_e;esc_html_e;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: treweler.php\n"
+
+#: includes/admin/class-twer-admin-meta-boxes.php:45
+msgid "Map Settings"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:47
+msgid "Map Shortcode"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:49
+msgid "Map Details"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:53
+msgid "Treweler Fullscreen Map"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:57
+msgid "Marker Settings"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:59
+msgid "Marker Details"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:63
+msgid "Route Settings"
+msgstr ""
+
+#: includes/admin/class-twer-admin-meta-boxes.php:66
+msgid "Route Details"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:217
+#: includes/admin/class-twer-admin-post-types.php:220
+msgid "Map updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:218
+#: includes/admin/class-twer-admin-post-types.php:238
+#: includes/admin/class-twer-admin-post-types.php:257
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:219
+#: includes/admin/class-twer-admin-post-types.php:239
+#: includes/admin/class-twer-admin-post-types.php:258
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:221
+#: includes/admin/class-twer-admin-post-types.php:241
+#: includes/admin/class-twer-admin-post-types.php:260
+msgid "Revision restored."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:222
+msgid "Map published."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:223
+msgid "Map saved."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:224
+msgid "Map submitted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:228
+msgid "Map scheduled for:"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:229
+#: includes/admin/class-twer-admin-post-types.php:249
+#: includes/admin/class-twer-admin-post-types.php:268
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:232
+msgid "Map draft updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:237
+#: includes/admin/class-twer-admin-post-types.php:240
+#: includes/admin/class-twer-admin-post-types.php:242
+msgid "Route updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:243
+msgid "Route saved."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:244
+msgid "Route submitted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:248
+msgid "Route scheduled for:"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:251
+msgid "Route draft updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:256
+#: includes/admin/class-twer-admin-post-types.php:259
+#: includes/admin/class-twer-admin-post-types.php:261
+msgid "Marker updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:262
+msgid "Marker saved."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:263
+msgid "Marker submitted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:267
+msgid "Marker scheduled for:"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:270
+msgid "Marker draft updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:287
+#, php-format
+msgid "%s map updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:289
+#, php-format
+msgid "%s map not updated, somebody is editing it."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:292
+#, php-format
+msgid "%s map permanently deleted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:295
+#, php-format
+msgid "%s map moved to the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:298
+#, php-format
+msgid "%s map restored from the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:304
+#, php-format
+msgid "%s route updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:306
+#, php-format
+msgid "%s route not updated, somebody is editing it."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:309
+#, php-format
+msgid "%s route permanently deleted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:312
+#, php-format
+msgid "%s route moved to the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:315
+#, php-format
+msgid "%s route restored from the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:321
+#, php-format
+msgid "%s marker updated."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:323
+#, php-format
+msgid "%s marker not updated, somebody is editing it."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:326
+#, php-format
+msgid "%s marker permanently deleted."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:329
+#, php-format
+msgid "%s marker moved to the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:332
+#, php-format
+msgid "%s marker restored from the Trash."
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:360
+msgid "Map name"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:363
+msgid "Marker name"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:366
+msgid "Route name"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:392
+msgid "No Match"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:396
+msgid "Driving"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:400
+msgid "Walking"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:404
+msgid "Cycling"
+msgstr ""
+
+#: includes/admin/class-twer-admin-post-types.php:410
+msgid "Draw your route using the draw tools in the upper right corner of the map. To get the most accurate route match, draw points at regular intervals."
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:70
+msgid "Treweler Settings"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:71 includes/class-treweler.php:190
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:125
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:144
+msgid "Enter a valid"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:146
+msgid "Mapbox access token"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:175
+#, php-format
+msgid "Something went wrong: %s"
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:183
+msgid "Enter a valid Mapbox access token."
+msgstr ""
+
+#: includes/admin/class-twer-admin.php:222
+#: includes/admin/list-tables/class-twer-admin-list-table-marker.php:73
+#: includes/admin/list-tables/class-twer-admin-list-table-route.php:73
+#: includes/admin/views/html-map-details-panel.php:1023
+#: includes/class-twer-taxonomy.php:44
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-map.php:71
+#: includes/admin/list-tables/class-twer-admin-list-table-marker.php:72
+#: includes/admin/list-tables/class-twer-admin-list-table-route.php:72
+msgid "Name"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-map.php:73
+msgid "Map ID"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-map.php:74
+#: includes/admin/list-tables/class-twer-admin-list-table-marker.php:75
+#: includes/admin/list-tables/class-twer-admin-list-table-route.php:75
+msgid "Date"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-marker.php:74
+#: includes/admin/views/html-marker-settings-panel.php:54
+msgid "Marker Map"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-marker.php:99
+#: includes/admin/list-tables/class-twer-admin-list-table-route.php:99
+#, php-format
+msgid "ID: %d"
+msgstr ""
+
+#: includes/admin/list-tables/class-twer-admin-list-table-route.php:74
+msgid "Route Map"
+msgstr ""
+
+#: includes/admin/twer-admin-functions.php:20
+#: includes/twer-template-map.php:145 includes/twer-template-map.php:273
+#: includes/twer-template-map.php:388
+msgid "Treweler"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:32
+msgid "Wordmark position"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:36
+#: includes/admin/views/html-map-details-panel.php:64
+#: includes/admin/views/html-map-details-panel.php:154
+#: includes/admin/views/html-map-details-panel.php:484
+#: includes/admin/views/html-map-details-panel.php:624
+#: includes/admin/views/html-map-details-panel.php:1322
+#: includes/admin/views/html-marker-details-panel.php:974
+msgid "Top Left"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:41
+#: includes/admin/views/html-map-details-panel.php:69
+#: includes/admin/views/html-map-details-panel.php:214
+#: includes/admin/views/html-map-details-panel.php:490
+#: includes/admin/views/html-map-details-panel.php:630
+#: includes/admin/views/html-map-details-panel.php:1324
+#: includes/admin/views/html-marker-details-panel.php:980
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:46
+#: includes/admin/views/html-map-details-panel.php:74
+#: includes/admin/views/html-map-details-panel.php:193
+#: includes/admin/views/html-map-details-panel.php:496
+#: includes/admin/views/html-map-details-panel.php:636
+#: includes/admin/views/html-map-details-panel.php:1326
+#: includes/admin/views/html-marker-details-panel.php:992
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:51
+#: includes/admin/views/html-map-details-panel.php:79
+#: includes/admin/views/html-map-details-panel.php:252
+#: includes/admin/views/html-map-details-panel.php:502
+#: includes/admin/views/html-map-details-panel.php:642
+#: includes/admin/views/html-map-details-panel.php:1328
+#: includes/admin/views/html-marker-details-panel.php:998
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:60
+msgid "Attribution position"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:89
+msgid "Compact attribution"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:104
+#: includes/admin/views/html-marker-details-panel.php:918
+msgid "Enable Clustering"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:118
+msgid "Cluster Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:125
+msgid "Clustering Max Zoom"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:135
+msgid "Show Widgets"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:148
+msgid "Widgets"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:159
+#: includes/admin/views/html-map-details-panel.php:178
+#: includes/admin/views/html-map-details-panel.php:198
+#: includes/admin/views/html-map-details-panel.php:219
+#: includes/admin/views/html-map-details-panel.php:238
+#: includes/admin/views/html-map-details-panel.php:257
+msgid "Value"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:165
+#: includes/admin/views/html-map-details-panel.php:185
+#: includes/admin/views/html-map-details-panel.php:204
+#: includes/admin/views/html-map-details-panel.php:225
+#: includes/admin/views/html-map-details-panel.php:244
+#: includes/admin/views/html-map-details-panel.php:263
+#: includes/admin/views/html-marker-details-panel.php:648
+msgid "Description"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:173
+msgid "Middle Left"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:233
+msgid "Middle Right"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:275
+#: includes/admin/views/html-map-details-panel.php:570
+#: includes/admin/views/html-marker-details-panel.php:777
+msgid "Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:281
+msgid "Value Font Weight"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:284
+#: includes/admin/views/html-marker-details-panel.php:520
+#: includes/admin/views/html-marker-details-panel.php:594
+#: includes/admin/views/html-marker-details-panel.php:668
+#: includes/admin/views/html-marker-details-panel.php:1033
+msgid "Thin"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:290
+#: includes/admin/views/html-marker-details-panel.php:526
+#: includes/admin/views/html-marker-details-panel.php:600
+#: includes/admin/views/html-marker-details-panel.php:674
+#: includes/admin/views/html-marker-details-panel.php:1039
+msgid "Extra Light"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:296
+#: includes/admin/views/html-marker-details-panel.php:532
+#: includes/admin/views/html-marker-details-panel.php:606
+#: includes/admin/views/html-marker-details-panel.php:680
+#: includes/admin/views/html-marker-details-panel.php:854
+#: includes/admin/views/html-marker-details-panel.php:1045
+msgid "Light"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:302
+#: includes/admin/views/html-marker-details-panel.php:538
+#: includes/admin/views/html-marker-details-panel.php:612
+#: includes/admin/views/html-marker-details-panel.php:686
+#: includes/admin/views/html-marker-details-panel.php:1051
+msgid "Regular"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:308
+#: includes/admin/views/html-marker-details-panel.php:544
+#: includes/admin/views/html-marker-details-panel.php:618
+#: includes/admin/views/html-marker-details-panel.php:692
+#: includes/admin/views/html-marker-details-panel.php:1057
+msgid "Semi Bold"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:314
+#: includes/admin/views/html-marker-details-panel.php:550
+#: includes/admin/views/html-marker-details-panel.php:624
+#: includes/admin/views/html-marker-details-panel.php:698
+#: includes/admin/views/html-marker-details-panel.php:1063
+msgid "Bold"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:320
+#: includes/admin/views/html-marker-details-panel.php:556
+#: includes/admin/views/html-marker-details-panel.php:630
+#: includes/admin/views/html-marker-details-panel.php:704
+#: includes/admin/views/html-marker-details-panel.php:1069
+msgid "Extra Bold"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:326
+#: includes/admin/views/html-marker-details-panel.php:562
+#: includes/admin/views/html-marker-details-panel.php:636
+#: includes/admin/views/html-marker-details-panel.php:710
+#: includes/admin/views/html-marker-details-panel.php:1075
+msgid "Black"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:336
+msgid "Show Gradient"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:349
+msgid "Gradient Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:355
+msgid "Gradient Opacity"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:362
+#: includes/admin/views/html-marker-details-panel.php:253
+msgid "The opacity property can take a value from 0.0 - 1.0. The lower value, the more transparent."
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:368
+msgid "Gradient Position"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:371
+#: includes/admin/views/html-map-details-panel.php:795
+#: includes/admin/views/html-map-details-panel.php:893
+#: includes/admin/views/html-marker-details-panel.php:416
+#: includes/admin/views/html-marker-details-panel.php:801
+#: includes/admin/views/html-marker-details-panel.php:956
+msgid "Left"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:377
+#: includes/admin/views/html-map-details-panel.php:804
+#: includes/admin/views/html-map-details-panel.php:902
+#: includes/admin/views/html-marker-details-panel.php:421
+#: includes/admin/views/html-marker-details-panel.php:731
+#: includes/admin/views/html-marker-details-panel.php:962
+msgid "Right"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:383
+msgid "Left and Right"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:396
+msgid "Initial Bearing"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:403
+msgid "The map's angle of rotation, measured in degrees counter-clockwise from north."
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:409
+msgid "Initial Pitch"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:416
+msgid "The map's angle towards the horizon measured in degrees."
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:422
+msgid "Allow Pitch & Bearing"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:436
+msgid "Pitch Range"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:440
+msgid "Minimum Pitch"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:450
+msgid "Maximum Pitch"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:466
+msgid "Show Сategory Filter"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:479
+#: includes/admin/views/html-map-details-panel.php:1314
+#: includes/admin/views/html-marker-details-panel.php:398
+#: includes/admin/views/html-marker-details-panel.php:953
+msgid "Position"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:511
+msgid "Show Uncategorized"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:524
+msgid "Fit Bounds"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:540
+msgid "Enable Preloader"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:553
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:559
+msgid "Preloader Text"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:564
+#: includes/admin/views/html-marker-details-panel.php:765
+msgid "Text"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:578
+msgid "Enable Percentage"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:591
+msgid "Percentage Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:597
+#: includes/admin/views/html-marker-details-panel.php:722
+msgid "Image"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:606
+msgid "Enable Tour"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:619
+msgid "Arrows Position"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:651
+msgid "Tour Information"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:656
+msgid "Start Message"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:662
+msgid "Show Marker Names"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:679
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:685
+msgid "Tour Type"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:690
+msgid "Jump"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:696
+msgid "Fly"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:705
+msgid "Marker Zoom Level"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:716
+msgid "Speed"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:729
+msgid "Curve"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:742
+msgid "Show Marker Popups"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:756
+msgid "Start Tour After Load"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:769
+#: includes/admin/views/html-map-details-panel.php:867
+msgid "Marker Offset"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:777
+#: includes/admin/views/html-map-details-panel.php:875
+#: includes/admin/views/html-marker-details-panel.php:406
+#: includes/admin/views/html-marker-details-panel.php:737
+#: includes/admin/views/html-marker-details-panel.php:968
+msgid "Top"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:786
+#: includes/admin/views/html-map-details-panel.php:884
+#: includes/admin/views/html-marker-details-panel.php:411
+#: includes/admin/views/html-marker-details-panel.php:986
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:812
+msgid "Tour Markers"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:817
+#: includes/admin/views/html-marker-details-panel.php:153
+#: includes/admin/views/html-marker-details-panel.php:262
+#: includes/admin/views/html-marker-details-panel.php:269
+msgid "Marker"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:823
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:836
+msgid "Markers zoom level"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:842
+msgid "Show markers popup"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:855
+msgid "Bearing"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:861
+msgid "Pitch"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:916
+msgid "Languanges"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:921
+msgid "Browser Language"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:927
+msgid "Multilingual"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:933
+msgid "Arabic"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:939
+msgid "Chinese Simplified"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:945
+msgid "Chinese Traditional"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:951
+msgid "English"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:957
+msgid "French"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:963
+msgid "German"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:969
+msgid "Italian"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:975
+msgid "Japanese"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:981
+msgid "Korean"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:987
+msgid "Portuguese"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:993
+msgid "Russian"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:999
+msgid "Spanish"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1004
+msgid "Language settings are not fully supported for Streets, Outdoors, Satellite and custom styles."
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1020
+msgid "General"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1026
+msgid "Attribution"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1029
+#: includes/admin/views/html-marker-details-panel.php:1142
+msgid "Clustering"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1032
+msgid "Languages"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1035
+msgid "Information Widgets"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1039
+msgid "Pitch & Bearing"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1043
+msgid "Preloader"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1047
+msgid "Tour"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1062
+msgid "Show Map Description"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1103
+msgid "Map Name"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1123
+#: includes/admin/views/html-map-details-panel.php:1230
+#: includes/admin/views/html-map-details-panel.php:1541
+#: includes/admin/views/html-map-details-panel.php:1651
+#: includes/admin/views/html-map-details-panel.php:1841
+#: includes/admin/views/html-map-details-panel.php:2231
+#: includes/admin/views/html-map-details-panel.php:2402
+#: includes/admin/views/html-map-details-panel.php:2435
+#: includes/admin/views/html-map-details-panel.php:2585
+#: includes/admin/views/html-map-details-panel.php:2807
+#: includes/admin/views/html-map-details-panel.php:2841
+#: includes/admin/views/html-marker-details-panel.php:1241
+#: includes/admin/views/html-marker-details-panel.php:1264
+#: includes/admin/views/html-marker-details-panel.php:1440
+#: includes/admin/views/html-marker-details-panel.php:1558
+#: includes/admin/views/html-marker-details-panel.php:1663
+#: includes/admin/views/html-marker-details-panel.php:1798
+#: includes/admin/views/html-marker-details-panel.php:1950
+#: includes/admin/views/html-marker-details-panel.php:2070
+#: includes/admin/views/html-route-details-panel.php:79
+#: includes/admin/views/html-route-settings-panel.php:77
+msgid "Select Color"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1211
+msgid "Map Description"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1337
+msgid "Map Logo"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1364
+#: includes/admin/views/html-map-details-panel.php:2466
+#: includes/admin/views/html-map-details-panel.php:3710
+#: includes/admin/views/html-marker-details-panel.php:1370
+#: includes/admin/views/html-marker-details-panel.php:1728
+msgid "Select Image"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1376
+#: includes/admin/views/html-map-details-panel.php:1958
+#: includes/admin/views/html-map-details-panel.php:2045
+#: includes/admin/views/html-map-details-panel.php:2478
+#: includes/admin/views/html-map-details-panel.php:3722
+#: includes/admin/views/html-marker-details-panel.php:1352
+#: includes/admin/views/html-marker-details-panel.php:1381
+#: includes/admin/views/html-marker-details-panel.php:1739
+#: includes/admin/views/html-route-details-panel.php:193
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1379
+#: includes/admin/views/html-map-details-panel.php:2481
+#: includes/admin/views/html-map-details-panel.php:3725
+#: includes/admin/views/html-marker-details-panel.php:1384
+#: includes/admin/views/html-marker-details-panel.php:1742
+msgid "Change image"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1392
+msgid "Logo Size"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1418
+msgid "Link"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1425
+#: includes/admin/views/html-marker-details-panel.php:771
+msgid "URL"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:1434
+#: includes/admin/views/html-marker-details-panel.php:783
+msgid "Open in new tab"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:2064
+msgid "Add new"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:3210
+#: includes/admin/views/html-map-details-panel.php:3639
+msgid "Remove Marker"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:3664
+#: includes/admin/views/html-map-details-panel.php:3665
+msgid "Select a Marker"
+msgstr ""
+
+#: includes/admin/views/html-map-details-panel.php:3684
+msgid "Marker not found"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:24
+msgid "Controls"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:27
+msgid "Distance Scale"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:33
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:39
+msgid "Search"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:45
+msgid "Zoom & Pan"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:105
+#: includes/admin/views/html-route-details-panel.php:52
+msgid "Styles"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:109
+msgid "Streets"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:111
+msgid "Outdoors"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:113
+msgid "Streets Light"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:115
+msgid "Streets Dark"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:117
+msgid "Satellite"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:119
+msgid "Satellite Streets"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:121
+msgid "Navigations Preview Day"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:123
+msgid "Navigations Preview Night"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:125
+msgid "Navigations Guidance Day"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:127
+msgid "Navigations Guidance Night"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:133
+msgid "Custom Style"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:137
+msgid "E.g. mapbox://styles/username/*"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:142
+msgid "Initial Point"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:147
+#: includes/admin/views/html-marker-settings-panel.php:80
+msgid "Latitude "
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:150
+#: includes/admin/views/html-marker-settings-panel.php:83
+msgid "Longitude"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:154
+#: includes/admin/views/html-map-settings-panel.php:173
+msgid "Use the map preview"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:159
+msgid "Initial Zoom Level"
+msgstr ""
+
+#: includes/admin/views/html-map-settings-panel.php:178
+msgid "Zoom Range"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:35
+msgid "Fullwidth Map"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:42
+msgid "Disable scroll zoom"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:48
+#: includes/admin/views/html-marker-details-panel.php:834
+msgid "Width"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:50
+#: includes/admin/views/html-map-shortcode-panel.php:51
+#: includes/admin/views/html-marker-details-panel.php:344
+msgid "%"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:53
+#: includes/admin/views/html-map-shortcode-panel.php:54
+#: includes/admin/views/html-map-shortcode-panel.php:67
+#: includes/admin/views/html-map-shortcode-panel.php:68
+#: includes/admin/views/html-marker-details-panel.php:349
+msgid "px"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:56
+#: includes/admin/views/html-map-shortcode-panel.php:57
+#: includes/admin/views/html-map-shortcode-panel.php:70
+#: includes/admin/views/html-map-shortcode-panel.php:71
+msgid "em"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:65
+#: includes/admin/views/html-marker-details-panel.php:826
+msgid "Height"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:76
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:79
+msgid "Copy shortcode from here"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:81
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: includes/admin/views/html-map-shortcode-panel.php:86
+msgid "Use the page settings to add a fullscreen map."
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:25
+#: includes/admin/views/html-marker-details-panel.php:341
+#: includes/admin/views/html-marker-details-panel.php:851
+msgid "Style"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:28
+msgid "Point"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:33
+#: includes/admin/views/html-marker-details-panel.php:203
+msgid "Dot"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:38
+msgid "Balloon"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:43
+msgid "Triangle"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:48
+#: includes/admin/views/html-marker-details-panel.php:390
+msgid "Custom Marker"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:58
+#: includes/admin/views/html-marker-details-panel.php:105
+msgid "Show Icon"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:72
+#: includes/admin/views/html-marker-details-panel.php:119
+msgid "Select Icon"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:79
+#: includes/admin/views/html-marker-details-panel.php:85
+#: includes/admin/views/html-marker-details-panel.php:126
+#: includes/admin/views/html-marker-details-panel.php:132
+msgid "Icon"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:95
+#: includes/admin/views/html-marker-details-panel.php:142
+msgid "Icon Size"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:159
+#: includes/admin/views/html-marker-details-panel.php:233
+#: includes/admin/views/html-marker-details-panel.php:363
+msgid "Marker Color"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:169
+#: includes/admin/views/html-marker-details-panel.php:280
+#: includes/admin/views/html-marker-details-panel.php:454
+msgid "Marker Size"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:178
+#: includes/admin/views/html-marker-details-panel.php:293
+msgid "Border"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:184
+#: includes/admin/views/html-marker-details-panel.php:299
+msgid "Border Color"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:194
+#: includes/admin/views/html-marker-details-panel.php:309
+msgid "Border Width"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:209
+msgid "Dot Color"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:219
+msgid "Dot size"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:242
+msgid "Halo Color"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:251
+msgid "Halo Opacity"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:326
+#: includes/admin/views/html-marker-details-panel.php:334
+#: includes/admin/views/html-marker-details-panel.php:844
+msgid "Corner Radius"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:373
+msgid "Marker Width"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:383
+msgid "Marker Height"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:401
+#: includes/admin/views/html-marker-details-panel.php:807
+#: includes/admin/views/html-marker-details-panel.php:1004
+msgid "Center"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:426
+msgid "Top-left"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:431
+msgid "Top-right"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:436
+msgid "Bottom-left"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:441
+msgid "Bottom-right"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:462
+msgid "Cursor on Hover"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:465
+msgid "Pointer"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:470
+msgid "Grab"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:487
+msgid "Show popup"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:500
+msgid "Heading"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:574
+msgid "Subheading"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:728
+msgid "Image position"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:753
+msgid "Image width"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:760
+msgid "Button"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:798
+msgid "Content align"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:819
+msgid "Min width and height"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:860
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:870
+#: includes/admin/views/html-marker-details-panel.php:875
+msgid "Open popup on"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:878
+msgid "Hover"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:884
+msgid "Click"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:890
+msgid "Always open"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:900
+msgid "Open by default"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:934
+msgid "Show Text Lable"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:947
+msgid "Lable Text"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1015
+msgid "Font Color"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1023
+msgid "Font Size"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1030
+msgid "Font Weight"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1087
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1095
+msgid "Line Height"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1104
+msgid "Margin"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1111
+msgid "Hide Marker"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1136
+msgid "Marker Styles"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1139
+msgid "Popup"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1145
+msgid "Text Label"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1341
+#: includes/admin/views/html-route-details-panel.php:183
+msgid "Select File"
+msgstr ""
+
+#: includes/admin/views/html-marker-details-panel.php:1355
+msgid "Change file"
+msgstr ""
+
+#: includes/admin/views/html-marker-settings-panel.php:60
+#: includes/admin/views/html-route-settings-panel.php:52
+msgid "No map selected"
+msgstr ""
+
+#: includes/admin/views/html-marker-settings-panel.php:77
+msgid "Marker Coordinates"
+msgstr ""
+
+#: includes/admin/views/html-page-map-panel.php:30
+msgid "-- Select fullscreen map --"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:55
+msgid "Import GPX"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:70
+#: includes/admin/views/html-route-settings-panel.php:72
+msgid "Route line color"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:96
+msgid "Route Line Width"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:115
+#: includes/admin/views/html-route-settings-panel.php:97
+msgid "Route line opacity"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:124
+#: includes/admin/views/html-route-settings-panel.php:101
+msgid "Value between 0 and 1 (Example 0.8)"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:136
+#: includes/admin/views/html-route-settings-panel.php:107
+msgid "Dash and gap"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:144
+msgid "1"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:149
+msgid "0"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:172
+msgid "GPX File"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:197
+msgid "Change File"
+msgstr ""
+
+#: includes/admin/views/html-route-details-panel.php:203
+msgid "This type of GPX file is not supported."
+msgstr ""
+
+#: includes/admin/views/html-route-settings-panel.php:46
+msgid "Route map"
+msgstr ""
+
+#: includes/admin/views/html-route-settings-panel.php:90
+msgid "Route line width, px"
+msgstr ""
+
+#: includes/admin/views/html-route-settings-panel.php:112
+msgid "Dash"
+msgstr ""
+
+#: includes/admin/views/html-route-settings-panel.php:115
+msgid "Gap"
+msgstr ""
+
+#: includes/class-treweler.php:189
+msgid "Visit treweler settings"
+msgstr ""
+
+#: includes/class-treweler.php:205
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/class-treweler.php:214
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/class-twer-frontend-scripts.php:313
+msgid "All categories"
+msgstr ""
+
+#: includes/class-twer-frontend-scripts.php:314
+msgid "Categories selected"
+msgstr ""
+
+#: includes/class-twer-frontend-scripts.php:315
+msgid "Category selected"
+msgstr ""
+
+#: includes/class-twer-frontend-scripts.php:316
+msgid "No category selected"
+msgstr ""
+
+#: includes/class-twer-frontend-scripts.php:317
+msgid "No Categories Found"
+msgstr ""
+
+#: includes/class-twer-map.php:694
+msgid "Enter search..."
+msgstr ""
+
+#: includes/class-twer-map.php:1184
+msgid "USE BUTTONS TO START A TOUR"
+msgstr ""
+
+#: includes/class-twer-post-types.php:46 includes/class-twer-post-types.php:111
+#: includes/class-twer-post-types.php:176
+msgid "Add New"
+msgstr ""
+
+#: includes/class-twer-post-types.php:47
+msgid "Add New Marker"
+msgstr ""
+
+#: includes/class-twer-post-types.php:48
+msgid "Edit Marker"
+msgstr ""
+
+#: includes/class-twer-post-types.php:49
+msgid "New Marker"
+msgstr ""
+
+#: includes/class-twer-post-types.php:50
+msgid "View Marker"
+msgstr ""
+
+#: includes/class-twer-post-types.php:51
+msgid "Markers"
+msgstr ""
+
+#: includes/class-twer-post-types.php:52
+msgid "Search Markers"
+msgstr ""
+
+#: includes/class-twer-post-types.php:53
+msgid "No Markers found."
+msgstr ""
+
+#: includes/class-twer-post-types.php:54
+msgid "No Markers found in Trash."
+msgstr ""
+
+#: includes/class-twer-post-types.php:57
+msgid "Parent Markers:"
+msgstr ""
+
+#: includes/class-twer-post-types.php:81 includes/class-twer-post-types.php:146
+#: includes/class-twer-post-types.php:213
+msgid "Describe travels, routes, locations and other interesting events that can be described using maps."
+msgstr ""
+
+#: includes/class-twer-post-types.php:112
+msgid "Add New Route"
+msgstr ""
+
+#: includes/class-twer-post-types.php:113
+msgid "Edit Route"
+msgstr ""
+
+#: includes/class-twer-post-types.php:114
+msgid "New Route"
+msgstr ""
+
+#: includes/class-twer-post-types.php:115
+msgid "View Route"
+msgstr ""
+
+#: includes/class-twer-post-types.php:116
+msgid "Routes"
+msgstr ""
+
+#: includes/class-twer-post-types.php:117
+msgid "Search Routes"
+msgstr ""
+
+#: includes/class-twer-post-types.php:118
+msgid "No Routes found."
+msgstr ""
+
+#: includes/class-twer-post-types.php:119
+msgid "No Routes found in Trash."
+msgstr ""
+
+#: includes/class-twer-post-types.php:122
+msgid "Parent Routes:"
+msgstr ""
+
+#: includes/class-twer-post-types.php:177
+msgid "Add New Map"
+msgstr ""
+
+#: includes/class-twer-post-types.php:178
+msgid "Edit Map"
+msgstr ""
+
+#: includes/class-twer-post-types.php:179
+msgid "New Map"
+msgstr ""
+
+#: includes/class-twer-post-types.php:180
+msgid "View Map"
+msgstr ""
+
+#: includes/class-twer-post-types.php:181
+msgid "Maps"
+msgstr ""
+
+#: includes/class-twer-post-types.php:182
+msgid "Search Maps"
+msgstr ""
+
+#: includes/class-twer-post-types.php:183
+msgid "No Maps found."
+msgstr ""
+
+#: includes/class-twer-post-types.php:184
+msgid "No Maps found in Trash."
+msgstr ""
+
+#: includes/class-twer-post-types.php:187
+msgid "Parent Maps:"
+msgstr ""
+
+#: includes/class-twer-shortcodes.php:108
+msgid "Treweler Map"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:45
+msgid "All Items"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:46
+msgid "Parent Item"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:47
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:48
+msgid "New Item Name"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:49
+msgid "Add New Item"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:50
+msgid "Edit Item"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:51
+msgid "Update Item"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:52
+msgid "View Item"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:53
+msgid "Separate items with commas"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:54
+msgid "Add or remove items"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:55
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:56
+msgid "Popular Items"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:57
+msgid "Search Items"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:58
+msgid "Not Found"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:59
+msgid "No items"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:60
+msgid "Items list"
+msgstr ""
+
+#: includes/class-twer-taxonomy.php:61
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/twer-core-functions.php:25
+msgid " Backtrace: "
+msgstr ""
+
+#: includes/twer-core-functions.php:613
+msgid "Show All Maps"
+msgstr ""

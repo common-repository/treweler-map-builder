@@ -1,0 +1,9 @@
+/*!
+ * Select2 4.1.0-rc.0
+ * https://select2.github.io
+ *
+ * Released under the MIT license
+ * https://github.com/select2/select2/blob/master/LICENSE.md
+ */
+
+/*! http://mths.be/base64 v0.1.0 by @mathias | MIT license */
